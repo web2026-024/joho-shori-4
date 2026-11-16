@@ -1,0 +1,11 @@
+h1{
+    color: red;
+}
+h2{
+    color: blue;
+}
+p{
+     border: thin green solid;
+    margin: 0.5em 0.5em;
+    padding: 0.5em;
+}
