@@ -1,6 +1,6 @@
 h1{
-    color: red;
-    -webkit-text-stroke: 10px #000;
+    color: white;
+    -webkit-text-stroke: 10px #ff0000;
     paint-order: stroke fill;
 }
 h2{
